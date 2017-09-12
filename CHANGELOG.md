@@ -1,3 +1,7 @@
+v1.3.0
+----------------------
+添加 .travis.yml 进行测试
+
 v1.2.0 - 16 May 2016
 --------------------
 - Refactoring to improve customization, fixes #22, #26
